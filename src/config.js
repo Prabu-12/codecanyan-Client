@@ -1,3 +1,3 @@
 export default{
-    hostname:'http://localhost:5001'
+    hostname:'http://3.128.27.10'
 }
